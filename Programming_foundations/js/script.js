@@ -28,7 +28,7 @@ age: 9
 
 
 // task 6
-console.log (catObject.age)
+console.log (catObject.age);
 
 
 
